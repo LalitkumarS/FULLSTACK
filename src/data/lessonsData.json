@@ -1,0 +1,370 @@
+{
+  
+  "hindi": {
+    "lessons": [
+      {
+        "title": "Lesson 1: वर्णमाला (Alphabets)",
+        "content": "हिंदी वर्णमाला में 11 स्वर और 33 व्यंजन होते हैं। यह स्वर और व्यंजन मिलकर शब्दों का निर्माण करते हैं। स्वर: अ, आ, इ, ई, उ, ऊ, ए, ऐ, ओ, औ, अं। व्यंजन: क, ख, ग, घ, ङ, च, छ, ज, झ, ञ, ट, ठ, ड, ढ, ण, त, थ, द, ध, न, प, फ, ब, भ, म, य, र, ल, व, श, ष, स, ह।"
+      },
+      {
+        "title": "Lesson 2: मूल शब्द (Basic Words)",
+        "content": "खाना (eat), पीना (drink), सोना (sleep), आना (come), जाना (go)।"
+      },
+      {
+        "title": "Lesson 3: सरल वाक्य (Simple Sentences)",
+        "content": "मैं स्कूल जा रहा हूँ। (I am going to school)"
+      },
+      {
+        "title": "Lesson 4: वाक्यांश (Phrases)",
+        "content": "धन्यवाद (Thank you), नमस्ते (Hello), कृपया (Please)।"
+      },
+      {
+        "title": "Lesson 5: व्याकरण नियम (Grammar Rules)",
+        "content": "हिंदी व्याकरण में वचन, लिंग और काल का उपयोग होता है।"
+      },
+      {
+        "title": "Lesson 6: अभ्यास (Practice)",
+        "content": "आपके वाक्यों का अभ्यास करें।"
+      }
+    ]
+  },
+  "tamil": {
+    "lessons": [
+      {
+        "title": "Lesson 1: Alphabets",
+        "content": "அ, ஆ, இ, ஈ, உ, ஊ, எ, ஏ, ஐ, ஒ, ஓ"
+      },
+      {
+        "title": "Lesson 2: Basic Words",
+        "content": "வணக்கம், நன்றி, தயவு செய்து"
+      },
+      {
+        "title": "Lesson 3: Simple Sentences",
+        "content": "நான் நலமாக உள்ளேன்."
+      },
+      {
+        "title": "Lesson 4: Common Phrases",
+        "content": "நீங்கள் எப்படி இருக்கிறீர்கள்?"
+      },
+      {
+        "title": "Lesson 5: Grammar Rules",
+        "content": "வாக்கியத்தின் கூறுகள்"
+      },
+      {
+        "title": "Lesson 6: Practice",
+        "content": "எழுதுங்கள்: வணக்கம், நன்றி"
+      }
+    ]
+  },
+  "bengali": {
+    "lessons": [
+      {
+        "title": "Lesson 1: Alphabets",
+        "content": "অ, আ, ই, ঈ, উ, ঊ, ঋ, এ, ঐ, ও, ঔ"
+      },
+      {
+        "title": "Lesson 2: Basic Words",
+        "content": "নমস্কার, ধন্যবাদ, অনুগ্রহ করে"
+      },
+      {
+        "title": "Lesson 3: Simple Sentences",
+        "content": "আমি ভালো আছি।"
+      },
+      {
+        "title": "Lesson 4: Common Phrases",
+        "content": "আপনি কেমন আছেন?"
+      },
+      {
+        "title": "Lesson 5: Grammar Rules",
+        "content": "বাক্যের উপাদান"
+      },
+      {
+        "title": "Lesson 6: Practice",
+        "content": "লিখুন: নমস্কার, ধন্যবাদ"
+      }
+    ]
+  },
+  "telugu": {
+    "lessons": [
+      {
+        "title": "Lesson 1: Alphabets",
+        "content": "అ, ఆ, ఇ, ఈ, ఉ, ఊ, ఋ, ఎ, ఐ, ఒ, ఓ"
+      },
+      {
+        "title": "Lesson 2: Basic Words",
+        "content": "నమస్కారం, ధన్యవాదాలు, దయచేసి"
+      },
+      {
+        "title": "Lesson 3: Simple Sentences",
+        "content": "నేను బాగున్నాను."
+      },
+      {
+        "title": "Lesson 4: Common Phrases",
+        "content": "మీరు ఎలా ఉన్నారు?"
+      },
+      {
+        "title": "Lesson 5: Grammar Rules",
+        "content": "వాక్య విభాగాలు"
+      },
+      {
+        "title": "Lesson 6: Practice",
+        "content": "రాయండి: నమస్కారం, ధన్యవాదాలు"
+      }
+    ]
+  },
+  "marathi": {
+    "lessons": [
+      {
+        "title": "Lesson 1: Alphabets",
+        "content": "अ, आ, इ, ई, उ, ऊ, ऋ, ए, ऐ, ओ, औ"
+      },
+      {
+        "title": "Lesson 2: Basic Words",
+        "content": "नमस्कार, धन्यवाद, कृपया"
+      },
+      {
+        "title": "Lesson 3: Simple Sentences",
+        "content": "मी चांगला आहे."
+      },
+      {
+        "title": "Lesson 4: Common Phrases",
+        "content": "तू कसा आहेस?"
+      },
+      {
+        "title": "Lesson 5: Grammar Rules",
+        "content": "वाक्यांचे घटक"
+      },
+      {
+        "title": "Lesson 6: Practice",
+        "content": "लिहा: नमस्कार, धन्यवाद"
+      }
+    ]
+  },
+  "urdu": {
+    "lessons": [
+      {
+        "title": "Lesson 1: Alphabets",
+        "content": "ا, ب, پ, ت, ٹ, ث, ج, چ, ح, خ"
+      },
+      {
+        "title": "Lesson 2: Basic Words",
+        "content": "سلام, شکریہ, براہ مہربانی"
+      },
+      {
+        "title": "Lesson 3: Simple Sentences",
+        "content": "میں ٹھیک ہوں."
+      },
+      {
+        "title": "Lesson 4: Common Phrases",
+        "content": "آپ کیسے ہیں؟"
+      },
+      {
+        "title": "Lesson 5: Grammar Rules",
+        "content": "جملے کے اجزاء"
+      },
+      {
+        "title": "Lesson 6: Practice",
+        "content": "لکھیں: سلام, شکریہ"
+      }
+    ]
+  },
+  "gujarati": {
+    "lessons": [
+      {
+        "title": "Lesson 1: Alphabets",
+        "content": "અ, આ, ઇ, ઈ, ઉ, ઊ, ઋ, એ, ઐ, ઓ, ઔ"
+      },
+      {
+        "title": "Lesson 2: Basic Words",
+        "content": "નમસ્તે, ધન્યવાદ, કૃપા કરીને"
+      },
+      {
+        "title": "Lesson 3: Simple Sentences",
+        "content": "હું સારું છું."
+      },
+      {
+        "title": "Lesson 4: Common Phrases",
+        "content": "તમે કેમ છો?"
+      },
+      {
+        "title": "Lesson 5: Grammar Rules",
+        "content": "વાક્યના તત્ત્વો"
+      },
+      {
+        "title": "Lesson 6: Practice",
+        "content": "લખો: નમસ્તે, ધન્યવાદ"
+      }
+    ]
+  },
+  "kannada": {
+    "lessons": [
+      {
+        "title": "Lesson 1: Alphabets",
+        "content": "ಅ, ಆ, ಇ, ಈ, ಉ, ಊ, ಋ, ಎ, ಐ, ಓ, ಔ"
+      },
+      {
+        "title": "Lesson 2: Basic Words",
+        "content": "ನಮಸ್ಕಾರ, ಧನ್ಯವಾದಗಳು, ದಯವಿಟ್ಟು"
+      },
+      {
+        "title": "Lesson 3: Simple Sentences",
+        "content": "ನಾನು ಚೆನ್ನಾಗಿದ್ದೇನೆ."
+      },
+      {
+        "title": "Lesson 4: Common Phrases",
+        "content": "ನೀವು ಹೇಗಿದ್ದೀರಿ?"
+      },
+      {
+        "title": "Lesson 5: Grammar Rules",
+        "content": "ವಾಕ್ಯದ ಅಂಗಗಳು"
+      },
+      {
+        "title": "Lesson 6: Practice",
+        "content": "ಬರೆದು: ನಮಸ್ಕಾರ, ಧನ್ಯವಾದಗಳು"
+      }
+    ]
+  },
+  "odia": {
+    "lessons": [
+      {
+        "title": "Lesson 1: Alphabets",
+        "content": "ଅ, ଆ, ଇ, ଈ, ଉ, ୱ, ଋ, ଏ, ଐ, ଓ, ଔ"
+      },
+      {
+        "title": "Lesson 2: Basic Words",
+        "content": "ନମସ୍କାର, ଧନ୍ୟବାଦ, ଦୟାକରି"
+      },
+      {
+        "title": "Lesson 3: Simple Sentences",
+        "content": "ମୁଁ ଭଲ ଅଛି।"
+      },
+      {
+        "title": "Lesson 4: Common Phrases",
+        "content": "ଆପଣ କେମିତି ଅଛନ୍ତି?"
+      },
+      {
+        "title": "Lesson 5: Grammar Rules",
+        "content": "ବାକ୍ୟର ଉପାଦାନ"
+      },
+      {
+        "title": "Lesson 6: Practice",
+        "content": "ଲେଖନ୍ତୁ: ନମସ୍କାର, ଧନ୍ୟବାଦ"
+      }
+    ]
+  },
+  "malayalam": {
+    "lessons": [
+      {
+        "title": "Lesson 1: Alphabets",
+        "content": "അ, ആ, ഇ, ഈ, ഉ, ഊ, ഋ, എ, ഐ, ഒ, ഓ"
+      },
+      {
+        "title": "Lesson 2: Basic Words",
+        "content": "നമസ്കാരം, നന്ദി, ദയവായി"
+      },
+      {
+        "title": "Lesson 3: Simple Sentences",
+        "content": "ഞാൻ നന്നാണ്."
+      },
+      {
+        "title": "Lesson 4: Common Phrases",
+        "content": "നിങ്ങൾ എങ്ങനെ ഉണ്ട്?"
+      },
+      {
+        "title": "Lesson 5: Grammar Rules",
+        "content": "വാക്യത്തിലെ ഘടകങ്ങൾ"
+      },
+      {
+        "title": "Lesson 6: Practice",
+        "content": "എഴുതുക: നമസ്കാരം, നന്ദി"
+      }
+    ]
+  },
+  "punjabi": {
+    "lessons": [
+      {
+        "title": "Lesson 1: Alphabets",
+        "content": "ਅ, ਆ, ਇ, ਈ, ਉ, ਊ, ਐ, ਓ, ਔ"
+      },
+      {
+        "title": "Lesson 2: Basic Words",
+        "content": "ਨਮਸਤੇ, ਧੰਨਵਾਦ, ਕਿਰਪਾ ਕਰਕੇ"
+      },
+      {
+        "title": "Lesson 3: Simple Sentences",
+        "content": "ਮੈਂ ਠੀਕ ਹਾਂ।"
+      },
+      {
+        "title": "Lesson 4: Common Phrases",
+        "content": "ਤੁਸੀਂ ਕਿਵੇਂ ਹੋ?"
+      },
+      {
+        "title": "Lesson 5: Grammar Rules",
+        "content": "ਵਾਕ ਦੇ ਅੰਗ"
+      },
+      {
+        "title": "Lesson 6: Practice",
+        "content": "ਲਿਖੋ: ਨਮਸਤੇ, ਧੰਨਵਾਦ"
+      }
+    ]
+  },
+  "assamese": {
+    "lessons": [
+      {
+        "title": "Lesson 1: Alphabets",
+        "content": "অ, আ, ই, ঈ, উ, ঊ, ঋ, এ, ঐ, ও, ঔ"
+      },
+      {
+        "title": "Lesson 2: Basic Words",
+        "content": "নমস্কাৰ, ধন্যবাদ, অনুগ্ৰহ কৰি"
+      },
+      {
+        "title": "Lesson 3: Simple Sentences",
+        "content": "মই ভাল আছোঁ।"
+      },
+      {
+        "title": "Lesson 4: Common Phrases",
+        "content": "আপুনি কেনেকুৱা আছে?"
+      },
+      {
+        "title": "Lesson 5: Grammar Rules",
+        "content": "বাক্যৰ উপাদান"
+      },
+      {
+        "title": "Lesson 6: Practice",
+        "content": "লিখা: নমস্কাৰ, ধন্যবাদ"
+      }
+    ]
+  },
+  "konkani": {
+    "lessons": [
+      {
+        "title": "Lesson 1: Alphabets",
+        "content": "अ, आ, इ, ई, उ, ऊ, ऋ, ए, ऐ, ओ, औ"
+      },
+      {
+        "title": "Lesson 2: Basic Words",
+        "content": "नमस्कार, धन्यवाद, कृपया"
+      },
+      {
+        "title": "Lesson 3: Simple Sentences",
+        "content": "मैं ठीक हूँ।"
+      },
+      {
+        "title": "Lesson 4: Common Phrases",
+        "content": "तू कसा आहेस?"
+      },
+      {
+        "title": "Lesson 5: Grammar Rules",
+        "content": "वाक्याचे घटक"
+      },
+      {
+        "title": "Lesson 6: Practice",
+        "content": "लिहा: नमस्कार, धन्यवाद"
+      }
+    ]
+  }
+}
+
+
+       
